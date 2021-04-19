@@ -1,0 +1,9 @@
+D:\Kalkulator_NADILLA\Kalkulator_NADILLA\bin\Debug\Kalkulator_NADILLA.exe.config
+D:\Kalkulator_NADILLA\Kalkulator_NADILLA\bin\Debug\Kalkulator_NADILLA.exe
+D:\Kalkulator_NADILLA\Kalkulator_NADILLA\bin\Debug\Kalkulator_NADILLA.pdb
+D:\Kalkulator_NADILLA\Kalkulator_NADILLA\obj\Debug\Kalkulator_NADILLA.csprojResolveAssemblyReference.cache
+D:\Kalkulator_NADILLA\Kalkulator_NADILLA\obj\Debug\Kalkulator_NADILLA.Form1.resources
+D:\Kalkulator_NADILLA\Kalkulator_NADILLA\obj\Debug\Kalkulator_NADILLA.Properties.Resources.resources
+D:\Kalkulator_NADILLA\Kalkulator_NADILLA\obj\Debug\Kalkulator_NADILLA.csproj.GenerateResource.Cache
+D:\Kalkulator_NADILLA\Kalkulator_NADILLA\obj\Debug\Kalkulator_NADILLA.exe
+D:\Kalkulator_NADILLA\Kalkulator_NADILLA\obj\Debug\Kalkulator_NADILLA.pdb
